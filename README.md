@@ -30,12 +30,14 @@ You should see the output "Hello, World!" printed to the terminal.
 ## Malbolge "Hello, World!" Program
 
 The content of helloworld.mal is as follows:
-    ```sh
-    (=<`#9]~6ZY32Vw0/@;:o
+```sh
+(=<`#9]~6ZY32Vw0/@;:o
+```
 
 another way to code Hello, World in malbolge is:
-    ```sh
-    ('&%:9]!~}|z2Vxwv-,POqponl&%$#"
+```sh
+('&%:9]!~}|z2Vxwv-,POqponl&%$#"
+```
 
 ## Malbolge Interpreter
 
@@ -44,9 +46,9 @@ The Python-based Malbolge interpreter (malbolge.py) is designed to interpret and
 ### Usage
 
 To use the interpreter with any Malbolge program, run:
-    ```sh
-    python3 malbolge.py <filename>
-
+```sh
+python3 malbolge.py <filename>
+```
 Replace <filename> with the path to your Malbolge program file.
 
 ## License
